@@ -1,0 +1,19 @@
+html, body{
+    background-color: #E0E0FF;
+    width: 1000px;
+    height: 750px;
+    padding: 0;
+}
+.sidebar{
+    float: left;
+    padding: 40px;
+    text-align:center;
+    width: 200x;
+    height: 300px;
+    position:relative;
+    background-color: #FFE0D1
+}
+.textbar{
+   padding:40px;
+   text-align:center;
+}
